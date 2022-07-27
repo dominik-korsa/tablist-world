@@ -1,0 +1,6 @@
+name: TablistWorld
+version: '${version}'
+author: Dominik Korsa
+api-version: 1.13
+main: com.dominikkorsa.tablistworld.TablistWorldPlugin
+prefix: 'TablistWorld ${version}'
